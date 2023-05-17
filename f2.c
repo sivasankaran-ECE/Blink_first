@@ -1,3 +1,4 @@
+//moving zero to first
 #include<stdio.h>
 int main()
 {
